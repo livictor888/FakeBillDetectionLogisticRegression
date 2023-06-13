@@ -15,4 +15,4 @@ Subsequently, the second half of the dataset was employed as a test dataset to e
 To gain insight into the process of generating the logistic regression model, you can watch the following video:
 [![Alt text for your video](https://img.youtube.com/vi/QL7LXAvn-Go/0.jpg)](https://www.youtube.com/watch?v=QL7LXAvn-Go)
 
-<span style="font-size: 25px;">[See the model in action!](https://www.kaggle.com/datasets/alexandrepetit881234/fake-bills)</span>
+<span style="font-size: 40px;">[See the model in action!](http://livictor.pythonanywhere.com/)</span>
